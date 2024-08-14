@@ -160,8 +160,7 @@ const Home = () => {
       </section>
       <Newsletter />
       
-      
-
+    
     </>
   );
 };
