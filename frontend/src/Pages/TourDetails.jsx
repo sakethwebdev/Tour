@@ -13,7 +13,6 @@ const TourDetails = () => {
   const tour = tourData.find(tour => tour.id === id)
 const {photo , title, desc ,pice , reviews, city , distance, maxGroupSize}=tour 
 
-
   return (
     
     <>
