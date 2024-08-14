@@ -27,7 +27,6 @@ const {photo , title, desc ,pice , reviews, city , distance, maxGroupSize}=tour
             </div>
           </div>
         
-        
         </Col>
       </Row>
     </Container>
