@@ -161,6 +161,7 @@ const Home = () => {
       <Newsletter />
       
     
+    
     </>
   );
 };
