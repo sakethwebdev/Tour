@@ -32,7 +32,6 @@ const {photo , title, desc ,pice , reviews, city , distance, maxGroupSize}=tour
     </Container>
 
     
-    
     </>
   )
 }
