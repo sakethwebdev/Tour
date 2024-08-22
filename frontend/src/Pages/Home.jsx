@@ -30,7 +30,7 @@ const Home = () => {
                 </div>
 
                 <h1>
-                  {" "}
+                  {"  "}
                   Traveling opens the door to creating{" "}
                   <span className="highlight">memories</span>
                 </h1>
