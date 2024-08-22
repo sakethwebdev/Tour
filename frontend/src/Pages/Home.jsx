@@ -40,6 +40,8 @@ const Home = () => {
                   by pleasures, there are indeed no one here to open our doors
                   and similar things, pain is held by but! Flattery, or flight?
                 </p>
+
+                
               </div>
             </Col>
             <Col lg="2">
