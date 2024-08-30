@@ -42,6 +42,9 @@ const Home = () => {
                 </p>
 
                   
+
+
+                  
               </div>
             </Col>
             <Col lg="2">
