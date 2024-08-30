@@ -41,10 +41,6 @@ const Home = () => {
                   and similar things, pain is held by but! Flattery, or flight?
                 </p>
 
-                  
-
-
-                  
               </div>
             </Col>
             <Col lg="2">
@@ -78,6 +74,7 @@ const Home = () => {
           </Row>
         </Container>
       </section>
+
 
       <section>
         <Container>
